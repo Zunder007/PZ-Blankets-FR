@@ -1,0 +1,31 @@
+Recipes_FR = {
+    Recipe_Sew_Blanket = "Coudre une couverture",
+    Recipe_Bleach_Blanket = "Couverture d'eau de Javel",
+    Recipe_Rip_Blanket = "Couverture déchirée",
+    Recipe_Remove_Blanket_Pattern = "Supprimer le motif",
+
+    Recipe_Dye_Blanket_Black = "Teinture couverture noir",
+    Recipe_Dye_Blanket_Pink = "Teinture couverture rose",
+    Recipe_Dye_Blanket_Grey = "Teinture couverture gris",
+    Recipe_Dye_Blanket_Blue = "Teinture couverture bleu",
+    Recipe_Dye_Blanket_Green = "Teinture couverture vert",
+    Recipe_Dye_Blanket_Red = "Teinture couverture rouge",
+    Recipe_Dye_Blanket_Yellow = "Teinture couverture jaune",
+    Recipe_Dye_Blanket_Purple = "Teinture couverture violet",
+    Recipe_Dye_Blanket_DarkBlue = "Teinture couverture bleu foncé",
+    Recipe_Dye_Blanket_MilitaryGreen = "Teinture couverture vert militaire",
+
+    Recipe_Sew_Skull_Pattern_Blanket = "Coudre le motif du crâne dans la couverture",
+    Recipe_Sew_Spiffo_Pattern_Blanket = "Coudre le motif Spiffo dans la couverture",
+    Recipe_Sew_Paws_Pattern_Blanket = "Coudre le motif des pattes dans la couverture",
+    Recipe_Sew_Planet_Pattern_Blanket = "Coudre le motif de la planète dans la couverture",
+    Recipe_Sew_Floral_Pattern_Blanket = "Coudre un motif floral sur une couverture",
+
+    Recipe_Dye_Pattern_Blue = "Motif de teinture bleu",
+    Recipe_Dye_Pattern_Green = "Motif de teinture vert",
+    Recipe_Dye_Pattern_Purple = "Motif de teinture violet",
+    Recipe_Dye_Pattern_Red = "Motif de teinture rouge",
+    Recipe_Dye_Pattern_Yellow = "Motif de teinture jaune",
+    Recipe_Dye_Pattern_Pink = "Motif de teinture rose",
+    Recipe_Dye_Pattern_Black = "Motif de teinture noir",
+}
