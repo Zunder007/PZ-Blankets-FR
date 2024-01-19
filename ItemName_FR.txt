@@ -1,0 +1,13 @@
+ItemName_FR = {
+    ItemName_Blankets.BlackBlanket = "Couverture noire",
+    ItemName_Blankets.BlueBlanket = "Couverture bleue",
+    ItemName_Blankets.DarkBlueBlanket = "Couverture bleu foncé",
+    ItemName_Blankets.GreenBlanket = "Couverture verte",
+    ItemName_Blankets.GreyBlanket = "Couverture grise",
+    ItemName_Blankets.MilitaryGreenBlanket = "Couverture Verte Militaire",
+    ItemName_Blankets.PinkBlanket = "Couverture rose",
+    ItemName_Blankets.PurpleBlanket = "Couverture violette",
+    ItemName_Blankets.RedBlanket = "Couverture rouge",
+    ItemName_Blankets.WhiteBlanket = "Couverture blanche",
+    ItemName_Blankets.YellowBlanket = "Couverture jaune",
+}
