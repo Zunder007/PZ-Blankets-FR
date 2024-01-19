@@ -1,0 +1,4 @@
+ContextMenu_FR = {
+    ContextMenu_BO_PlaceBedSheet = "Placer le drap (%1)",
+    ContextMenu_BO_RemoveBedSheet = "Retirer le drap",
+}
